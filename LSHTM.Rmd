@@ -47,7 +47,7 @@ knitr::include_graphics("https://media.giphy.com/media/xT5LMsDBjZO6yRYTmw/giphy.
 
 * Minimal theory. Perhaps too little, as focus on studies... .
 
-* In Q & A, I can say more about theory and/or background
+* In Q & A, I can say more about theory and/or background.
 
 * Overarching framework for this talk: 'The Social Brain Hypothesis'.
 
