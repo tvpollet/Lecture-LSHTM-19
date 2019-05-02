@@ -192,11 +192,12 @@ knitr::include_graphics("support-sympathy.jpg")
 ---
 ## HEXACO (continued).
 
-* Openness to Experience: "Persons with very high scores on the Openness to Experience scale become absorbed in the beauty of art and nature, are inquisitive about various domains of knowledge, use their imagination freely in everyday life, and take an interest in unusual ideas or people. Conversely, persons with very low scores on this scale are rather unimpressed by most works of art, feel little intellectual curiosity, avoid creative pursuits, and feel little attraction toward ideas that may seem radical or unconventional."
+* Conscientiousness: "Persons with very high scores on the Conscientiousness scale organize their time and their physical surroundings, work in a disciplined way toward their goals, strive for accuracy and perfection in their tasks, and deliberate carefully when making decisions. Conversely, persons with very low scores on this scale tend to be unconcerned with orderly surroundings or schedules, avoid difficult tasks or challenging goals, are satisfied with work that contains some errors, and make decisions on impulse or with little reflection."
 
 --
 
-* Conscientiousness: "Persons with very high scores on the Conscientiousness scale organize their time and their physical surroundings, work in a disciplined way toward their goals, strive for accuracy and perfection in their tasks, and deliberate carefully when making decisions. Conversely, persons with very low scores on this scale tend to be unconcerned with orderly surroundings or schedules, avoid difficult tasks or challenging goals, are satisfied with work that contains some errors, and make decisions on impulse or with little reflection."
+* Openness to Experience: "Persons with very high scores on the Openness to Experience scale become absorbed in the beauty of art and nature, are inquisitive about various domains of knowledge, use their imagination freely in everyday life, and take an interest in unusual ideas or people. Conversely, persons with very low scores on this scale are rather unimpressed by most works of art, feel little intellectual curiosity, avoid creative pursuits, and feel little attraction toward ideas that may seem radical or unconventional."
+
 
 
 ---
@@ -249,7 +250,7 @@ knitr::include_graphics("Extraverts_JID.png")
 
 --
 
-* Support group: emotional closeness $\geq$ 8 AND at least weekly contact
+* Support group: emotional closeness $\geq$ 8 AND at least weekly contact.
 
 --
 
@@ -271,6 +272,10 @@ knitr::include_graphics("https://media.giphy.com/media/5htGFvTSehTxWdysds/giphy.
 --
 
 * Mean sympathy group: 11 (_SD_ = 8).
+
+--
+
+* Mean overall network size: 53 (_SD_ = 25) (Range: 9 to 147). 
 
 --
 
@@ -352,7 +357,7 @@ OLS Regressions.
 
 * support group: positive effects of extraversion (no notable effects of control)
 
-* (net) sympathy group: no effect of personality (only language of survey)
+* (net) sympathy group: no effect of personality (only language: those who reported 'Other' --> smaller network)
 
 ```{r, out.width = "900px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("Table1_molho.png")
@@ -361,7 +366,7 @@ knitr::include_graphics("Table1_molho.png")
 ---
 ## Emotional closeness.
 
-* No personality effects after adjusting for control variables. Except for Honesty-Humility effects
+* No personality effects after adjusting for control variables. Except for Honesty-Humility effects (and marginal Extraversion effect?)
 
 ```{r, out.width = "600px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("Table2_molho.png")
@@ -413,7 +418,7 @@ knitr::include_graphics("https://media.giphy.com/media/sRMPFaVQLGSw8/giphy.gif")
 ```
 
 ---
-## (offline) Social network structure
+## (offline) Social network structure.
 
 --> Previous studies did not examine the *structure* of these egocentric layers (offline networks). 
 
@@ -430,7 +435,7 @@ knitr::include_graphics("Personal-network-density-A-D-According-to-the-connectio
 
 --
 
-* "From time to time, most people discuss important matters with other people they trust. These important matters may bepersonal or social.The people with whom you discuss important matters may be friends, family or co-workers. Lookingback over the last six months, who are the people with whom you discussed matters important to you over the telephone, text or in person?"
+* "From time to time, most people discuss important matters with other people they trust. These important matters may be personal or social. The people with whom you discuss important matters may be friends, family or co-workers. Looking back over the last six months, who are the people with whom you discussed matters important to you over the telephone, text or in person?"
 
 --
 
