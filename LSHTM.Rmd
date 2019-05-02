@@ -39,7 +39,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ```{r, out.width = "400px", echo=FALSE, fig.align='center'}
-knitr::include_graphics("https://media.giphy.com/media/xT5LMsDBjZO6yRYTmw/giphy.gif") # Gipgyt
+knitr::include_graphics("https://media.giphy.com/media/xT5LMsDBjZO6yRYTmw/giphy.gif") # Giphy
 ```
 
 ---
@@ -52,7 +52,7 @@ knitr::include_graphics("https://media.giphy.com/media/xT5LMsDBjZO6yRYTmw/giphy.
 * Overarching framework for this talk: 'The Social Brain Hypothesis'.
 
 ```{r, out.width = "300px", echo=FALSE, fig.align='center'}
-knitr::include_graphics("Splash.jpg") # photo by Jacopo Werther
+knitr::include_graphics("splash.jpg") # photo by Jacopo Werther
 ```
 
 ---
