@@ -404,7 +404,7 @@ knitr::include_graphics("https://media.giphy.com/media/xTiTnxM7bZ9200V2Eg/giphy.
 
 * [Getnet](http://thepoliticsofsystems.net/category/social-networks/) - now 'dead'.
 
-* [Gephi](www.gephi.org) to calculate common social network metrics. --> Density, Clustering.
+* [Gephi](http://www.gephi.org) to calculate common social network metrics. --> Density, Clustering.
 
 ---
 ## What did we find?
