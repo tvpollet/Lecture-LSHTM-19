@@ -115,9 +115,13 @@ knitr::include_graphics("https://media.giphy.com/media/z8rEcJ6I0hiUM/giphy.gif")
 ---
 ## Not without criticism.
 
-How are relationships defined, for example? (De Ruiter, 2011).
+* How are relationships defined, for example? (De Ruiter et al., 2011).
 
-Evidence for smaller/larger structures? How to apply to fission/fusion systems? Other social network studies come up with larger numbers (and a lot of variability)
+* Evidence for smaller/larger structures? 
+
+* How to apply to fission/fusion systems? 
+
+* Other social network studies come up with larger numbers (and a lot of variability)
 
 ```{r, out.width = "500px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("Deruiter.png") # De Ruiter 2011
@@ -128,9 +132,8 @@ knitr::include_graphics("Deruiter.png") # De Ruiter 2011
 
 * Not everybody is as close to you... . Think about your romantic partner versus a random colleague who you only meet once a year at a conference.
 
-* Diagram by Barbara Guidi.
 
-```{r, out.width = "600px", echo=FALSE, fig.align='center'}
+```{r, out.width = "600px", echo=FALSE, fig.align='center', fig.cap='Diagram by Barbara Guidi'}
 knitr::include_graphics("Dunbars-circles.png") # Guidi, A distributed Dunbar-based Framework for Online Social Network
 ```
 
@@ -139,7 +142,7 @@ knitr::include_graphics("Dunbars-circles.png") # Guidi, A distributed Dunbar-bas
 
 * Dunbar (2016) argues for +/- (max.) 5 for the support clique (support group) and around max. 15 for the sympathy group.
 
-Sympathy group: "considered to be close friends", support group: 'considered to be close friends'.
+Sympathy group: 'considered to be close friends' and Support group: 'How many individuals they would ‘consider going to for advice or sympathy in times of great emotional or other distress'.
 
 ```{r, out.width = "300px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("support-sympathy.jpg")
@@ -155,6 +158,14 @@ knitr::include_graphics("support-sympathy.jpg")
 * Can we make sense of this variation?
 
 --> Personality.
+
+.pull-left[
+<img src="https://media.giphy.com/media/VbQnzApxQAJkQ/giphy.gif" width=300 height=200>
+]
+
+.pull-right[
+<img src="https://media.giphy.com/media/WyeDOm1ihL7KE/giphy.gif" width=300 height=200>
+]
 
 ---
 ## Personality: Individual differences.
@@ -195,9 +206,9 @@ knitr::include_graphics("support-sympathy.jpg")
 
 --
 
-* Stable individual differences. Does personality translate to the 'real world'.
+* Stable individual differences. Does personality translate to the 'real world'?
 
---> Do people who are extraverted have more friends, also at these inner layers?
+--> Do people who are extraverted have more 'friends', also at these inner layers?
 
 ```{r, out.width = "300px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("introvert-extravert.jpg") # I can has cheezburger.
@@ -206,12 +217,12 @@ knitr::include_graphics("introvert-extravert.jpg") # I can has cheezburger.
 ---
 ## Previous research on Extraversion and 'offline' networks.
 
-* Roberts et al. (2008) -  Extraversion positively associated support group but not sympathy group size (N=168)
+* Roberts et al. (2008) -  Extraversion positively associated support group (weekly contact) but not sympathy group size (monthly contact), (N=168)
 
 * Effect no longer statistically significant after adjusting for age?
 
 ```{r, out.width = "300px", echo=FALSE, fig.align='center'}
-knitr::include_graphics("https://media.giphy.com/media/ZZS5xe4Y7g5eo/giphy.gif") # I can has cheezburger.
+knitr::include_graphics("https://media.giphy.com/media/ZZS5xe4Y7g5eo/giphy.gif") # Giphy
 ```
 
 ---
@@ -373,7 +384,7 @@ knitr::include_graphics("https://media.giphy.com/media/DfmlrvtzmUbbG/giphy.gif")
 
 * Brown et al. (in preparation). - Extraversion associated with Facebook Network size (and number of clusters).
 
-* Preprint [here](https://psyarxiv.com/3zvhq/)
+* Preprint [here](https://psyarxiv.com/3zvhq/).
 
 ```{r, out.width = "500px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("https://media.giphy.com/media/xTiTnxM7bZ9200V2Eg/giphy.gif")
@@ -406,9 +417,8 @@ knitr::include_graphics("https://media.giphy.com/media/sRMPFaVQLGSw8/giphy.gif")
 
 --> Previous studies did not examine the *structure* of these egocentric layers (offline networks). 
 
-Illustration by Lee et al. (2013)
 
-```{r,  out.width = "400px", echo=FALSE, fig.align='center'}
+```{r,  out.width = "400px", echo=FALSE, fig.align='center', fig.cap='Illustration by Lee et al. (2013)'}
 knitr::include_graphics("Personal-network-density-A-D-According-to-the-connections-among-friends-alters-it.jpg")
 # Social Network Characteristics and Body Mass Index in an Elderly Korean Population - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/Personal-network-density-A-D-According-to-the-connections-among-friends-alters-it_fig1_259355548 [accessed 19 Feb, 2019]
 ```
@@ -448,7 +458,7 @@ knitr::include_graphics("https://media.giphy.com/media/raf86zLiQizfy/giphy.gif")
 
 http://www.tobiasstark.nl/GENSI/GENSI.htm (Gert Stulp's EHBEA Talk) - Some hiccups... .
 
-**Thomas clicks this [link](https://gensi.cocolab.org) and hopes for the best**
+**Thomas clicks this [link](https://gensi.cocolab.org) and hopes for the best... .**
 
 
 ```{r, out.width = "400px", echo=FALSE, fig.align='center'}
@@ -510,7 +520,7 @@ knitr::include_graphics("Loneliness_connor.png")
 
 --
 
-* Do those who have body image issues preferentially assort with those holding similar views (with Piers Cornelissen)
+* Do those who have body image issues preferentially assort with those holding similar views (with Prof. Piers Cornelissen)
 
 --
 
@@ -550,7 +560,7 @@ knitr::include_graphics("egocentric_book.jpg")
 
 --
 
-* Questions about homogeneity in networks.
+* Questions about homophily in networks. Like attracts like? Separating selection from influence effects?
 
 ---
 ## Any Questions?
