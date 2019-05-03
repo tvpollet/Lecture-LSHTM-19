@@ -466,7 +466,7 @@ http://www.tobiasstark.nl/GENSI/GENSI.htm (Gert Stulp's EHBEA Talk) - Some hiccu
 **Thomas clicks this [link](https://gensi.cocolab.org) and hopes for the best... .**
 
 
-```{r, out.width = "400px", echo=FALSE, fig.align='center'}
+```{r, out.width = "600px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("https://media.giphy.com/media/4KxeicCUTvhrW/giphy.gif")
 ```
 
@@ -475,7 +475,7 @@ knitr::include_graphics("https://media.giphy.com/media/4KxeicCUTvhrW/giphy.gif")
 
 No notable relationship with density but number of ties.
 
-```{r, out.width = "400px", echo=FALSE, fig.align='center'}
+```{r, out.width = "600px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("Extraversion_connor.png")
 ```
 
