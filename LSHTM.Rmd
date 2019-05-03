@@ -83,7 +83,7 @@ knitr::include_graphics("neocortex-size.png") # Neocortex size, Dunbar & Shultz 
 
 * Based on neocortex ratio: extrapolation based on data to suggest 'ancestral group size' ('150')
 
-* More basic: 'Natural' limits to the number of people we can know. 
+* More basic: 'Natural' limits to the number of people we can form relationships with. 
 
 * **Time** + **Cognition**
 
@@ -311,11 +311,11 @@ knitr::include_graphics("https://media.giphy.com/media/zjQrmdlR9ZCM/giphy.gif") 
 
 --
 
-* Recruited via personal networks of Masters students (Major Nationalities: 30% Dutch, 12% Germany, 9% U.S.). 
+* Recruited via personal networks of Masters students (Major Nationalities: 30% Dutch, 12% Germany, 9% U.S.). --> Remains W.E.I.R.D.
 
 --
 
-* 63.4% women, $\sf{Mean_{age}}$=27, $\sf{SD_{age}}$=10, range: 18 to 83 years. --> Remains W.E.I.R.D.
+* 63.4% women, $\sf{Mean_{age}}$=27, $\sf{SD_{age}}$=10, range: 18 to 83 years. 
 
 --
 
