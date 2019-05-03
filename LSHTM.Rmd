@@ -359,7 +359,7 @@ OLS Regressions.
 
 * (net) sympathy group: no effect of personality (only language: those who reported 'Other' --> smaller network)
 
-```{r, out.width = "900px", echo=FALSE, fig.align='center'}
+```{r, out.width = "1600x", echo=FALSE, fig.align='center'}
 knitr::include_graphics("Table1_molho.png")
 ```
 
@@ -368,7 +368,7 @@ knitr::include_graphics("Table1_molho.png")
 
 * No personality effects after adjusting for control variables. Except for Honesty-Humility effects (and marginal Extraversion effect?)
 
-```{r, out.width = "600px", echo=FALSE, fig.align='center'}
+```{r, out.width = "1100px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("Table2_molho.png")
 ```
 
