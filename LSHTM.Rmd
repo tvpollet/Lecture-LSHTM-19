@@ -33,9 +33,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ---
 ## Perhaps an odd talk? 
 
-* Very much a psychology talk. With little links to evolutionary demography. --> So bear with me... .
+* Very much a psychology talk. With little links to psychobiology/neuroscience/biology. --> So bear with me... .
 
-* Towards the end clearer what purpose is and perhaps how these methods could be of use to some of you.
+* Towards the end clearer what purpose is and perhaps how these methods could be of use/interest to some of you.
 
 
 ```{r, out.width = "400px", echo=FALSE, fig.align='center'}
@@ -509,7 +509,7 @@ knitr::include_graphics("Loneliness_connor.png")
 ---
 ## Future work: Studies
 
-* Does Instagram help to reduce loneliness (or increase it)? (funded by Facebook). Cross-sectional study + Longitudinally studying network change in first-years.
+* Does Instagram help to reduce loneliness (or increase it)? (funded by [Facebook](https://research.fb.com/blog/2018/12/announcing-the-winners-of-the-instagram-research-awards-for-social-technologies/)). Cross-sectional study + Longitudinally studying network change in first-years.
 
 --
 
@@ -517,7 +517,7 @@ knitr::include_graphics("Loneliness_connor.png")
 
 --
 
-* Loneliness in the elderly. Is it a matter of _any_ contact or specific contacts? Can we use Facetime/Skype to alleviate loneliness?
+* Loneliness in the elderly. Is it a matter of _any_ contact or specific contacts? Can we use Facetime/Skype to alleviate loneliness? (Ph.d. by Alex Thompson)
 
 --
 
@@ -587,7 +587,7 @@ knitr::include_graphics("https://media.giphy.com/media/3ohzdRoOp1FUYbtGDu/giphy.
 
 * Gert Stulp and Kris McCarty for GENSI trouble shooting.
 
-* Those who have funded me (not these studies per se): [NWO](www.nwo.nl), [Templeton](www.templeton.org), [NIAS](http://nias.knaw.nl).
+* Those who have funded me (not these studies per se): [NWO](www.nwo.nl), [Templeton](www.templeton.org), [NIAS](http://nias.knaw.nl). [HBES](www.hbes.com) and [LECH](https://www.lechufrn.com/) at UFRN for funding this lecture.
 
 * You for listening!
 
