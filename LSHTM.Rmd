@@ -18,8 +18,6 @@ options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
----
 ## Outline.
 
 * 'Minimal theory'
@@ -33,7 +31,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ---
 ## Perhaps an odd talk? 
 
-* Very much a psychology talk. With little links to psychobiology/neuroscience/biology. --> So bear with me... .
+* Very much a (social) psychology talk. With little links to psychobiology/neuroscience/biology. --> So bear with me... .
 
 * Towards the end clearer what purpose is and perhaps how these methods could be of use/interest to some of you.
 
