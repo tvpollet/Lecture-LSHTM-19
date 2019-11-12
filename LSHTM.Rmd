@@ -450,7 +450,7 @@ knitr::include_graphics("Personal-network-density-A-D-According-to-the-connectio
 
 * If we want to tackle loneliness, we need to understand it better. Problem of not enough close friends, or not feeling embedded? (Or both?)
 
-```{r, out.width = "400px", echo=FALSE, fig.align='center'}
+```{r, out.width = "375px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("https://media.giphy.com/media/raf86zLiQizfy/giphy.gif")
 ```
 
@@ -464,7 +464,7 @@ http://www.tobiasstark.nl/GENSI/GENSI.htm (Gert Stulp's EHBEA Talk) - Some hiccu
 **Thomas clicks this [link](https://gensi.cocolab.org) and hopes for the best... .**
 
 
-```{r, out.width = "600px", echo=FALSE, fig.align='center'}
+```{r, out.width = "500px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("https://media.giphy.com/media/4KxeicCUTvhrW/giphy.gif")
 ```
 
@@ -532,7 +532,7 @@ knitr::include_graphics("Loneliness_connor.png")
 ---
 ## Egocentric network analysis.
 
-```{r, out.width = "600px", echo=FALSE, fig.align='center'}
+```{r, out.width = "575px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("egocentric_book.jpg")
 ```
 
@@ -559,10 +559,6 @@ knitr::include_graphics("egocentric_book.jpg")
 
 --
 
-* Studies on childcare tend to look at individuals (grandparents, siblings, etc) rather than networks? Does density matter?
-
---
-
 * Questions about homophily in networks. Like attracts like? Separating selection from influence effects?
 
 ---
@@ -585,7 +581,7 @@ knitr::include_graphics("https://media.giphy.com/media/3ohzdRoOp1FUYbtGDu/giphy.
 
 * Gert Stulp and Kris McCarty for GENSI trouble shooting.
 
-* Those who have funded me (not these studies per se): [NWO](www.nwo.nl), [Templeton](www.templeton.org), [NIAS](http://nias.knaw.nl). [HBES](www.hbes.com) and [LECH](https://www.lechufrn.com/) at UFRN for funding this lecture.
+* Those who have funded me (not these studies per se): [NWO](www.nwo.nl), [Templeton](www.templeton.org), [NIAS](http://nias.knaw.nl).
 
 * You for listening!
 
